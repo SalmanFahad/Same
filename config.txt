@@ -1,6 +1,6 @@
 token=NTE0ODc5NjM2MTY2MTQ4MTAy.Dtjgxw.q-d2ldHwbLsb3kUJrhWIl3FdkpA
 owner=391306171278950401
-prefix=s
-game= .Same
+prefix=B
+game= Blanco
 songinstatus=false
 stayinchannel=true
