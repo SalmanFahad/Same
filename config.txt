@@ -1,7 +1,6 @@
-token=NTA5NDk1NTQ4NjcyMzQ0MDY3.DtRgoQ.Mznm52i8eOQaBUbkmYXNm1vt-ak
+token=NTE0ODc5NjM2MTY2MTQ4MTAy.Dtjgxw.q-d2ldHwbLsb3kUJrhWIl3FdkpA
 owner=391306171278950401
-prefix=b
-game= Salman Music!.
-songinstatus=true
+prefix=s
+game= .Same
+songinstatus=false
 stayinchannel=true
-status=Idle
